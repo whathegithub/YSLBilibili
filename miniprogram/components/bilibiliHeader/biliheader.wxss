@@ -1,0 +1,30 @@
+.myheader{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: gray
+}
+
+
+.logo{
+  flex: 7;
+
+}
+
+
+.search_icon{
+  display: flex;
+
+  justify-content: center;
+  flex:3;
+}
+
+
+
+.down_btn{
+  display: flex;
+
+  background-color: pink;
+  color: '#fff';
+}

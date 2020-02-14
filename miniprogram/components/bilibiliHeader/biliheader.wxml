@@ -1,0 +1,16 @@
+<view class="myheader">
+  <navigator class="logo">
+    <image class="logo_img" style="width:140rpx;height:80rpx" src="../../icons/logo.jpg"></image>
+  </navigator>
+
+  <view class='search_icon'>
+    <image src="../../icons/search.png" style="width:60rpx;height:40rpx"></image>
+  </view>
+
+  <view >
+    <button size="mini" bindtap="downLoadApp" class='down_btn' style="color:white">{{headText}}</button>
+  </view>
+
+
+ 
+</view>
